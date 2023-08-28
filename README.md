@@ -15,20 +15,31 @@ A platform where businesses can create and post their open job positions. Each j
 
 ### Bitly Clone
 Ever wanted to create shorter URLs like Bitly? This project is a link shortener and tracking tool that allows you to generate concise URLs for any webpage. Additionally, you can monitor the number of clicks each link receives. Users can easily add new links directly through the application.
+
 <kbd>
+  
 ![Bitly Clone image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/bitly%20clone1.png)
+
 </kbd>
+
 <kbd>
+  
 ![Bitly Clone image 2](https://github.com/Sayed-Husain/django-projects/blob/main/images/bitly%20clone2.png)
+
 </kbd>
 
 ### Linktree Clone
 Tired of managing multiple links? This project offers a link-in-bio solution similar to Linktree. You can create a webpage that consolidates all your important links in one place. Users have the ability to create, edit, and delete links, and can generate a landing page to share with others.
 <kbd>
+
 ![Link Tree image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/linktree1.png)
+
 </kbd>
+
 <kbd>
+
 ![Link Tree image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/linktree2.png)
+
 </kbd>
 
 
@@ -38,9 +49,13 @@ Track your travel adventures with this custom travel app! TripTrak lets users co
 <kbd>
   
 ![TripTrak image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/Trip%20Trak%201.png)
+
 </kbd>
+
 <kbd>
-![TripTrak image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/Trip%20Trak%202.png)
+
+  ![TripTrak image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/Trip%20Trak%202.png)
+
 </kbd>
 
 
