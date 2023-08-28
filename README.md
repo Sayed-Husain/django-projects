@@ -8,7 +8,9 @@ Welcome to the Django Projects repository! This repository contains a collection
 A platform where businesses can create and post their open job positions. Each job listing has its dedicated page displaying essential details such as job title, company, salary, and description. Business owners can conveniently log in to the admin panel to create new job listings.
 
 <kbd>
+  
 ![Job board image](https://github.com/Sayed-Husain/django-projects/blob/main/images/jobs%20board.png)
+
 </kbd>
 
 ### Bitly Clone
