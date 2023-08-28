@@ -36,6 +36,7 @@ Tired of managing multiple links? This project offers a link-in-bio solution sim
 Track your travel adventures with this custom travel app! TripTrak lets users comprehensively record all their vacations and trips. The project features an engaging homepage and an application dashboard. Users can create and edit their trips, complete with photos to capture those memorable moments.
 
 <kbd>
+  
 ![TripTrak image 1](https://github.com/Sayed-Husain/django-projects/blob/main/images/Trip%20Trak%201.png)
 </kbd>
 <kbd>
