@@ -7,6 +7,8 @@ Welcome to the Django Projects repository! This repository contains a collection
 ### Job Board
 A platform where businesses can create and post their open job positions. Each job listing has its dedicated page displaying essential details such as job title, company, salary, and description. Business owners can conveniently log in to the admin panel to create new job listings.
 
+![](images/jobs board.png)
+
 ### Bitly Clone
 Ever wanted to create shorter URLs like Bitly? This project is a link shortener and tracking tool that allows you to generate concise URLs for any webpage. Additionally, you can monitor the number of clicks each link receives. Users can easily add new links directly through the application.
 
